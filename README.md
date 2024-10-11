@@ -47,3 +47,9 @@ Whenever I have some time for myself I like to make music on my computer. which 
 📫 Reach out:
 
 Want to collaborate? Have some advice? Or just want to geek out about code? I'm all ears (or eyes, if it's through a screen)!
+
+<br>
+<br>
+
+<img alt="Jorge's GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jjmorenosound&show_icons=true"/>
+<img alt="Jorge's Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmorenosound&layout=compact"/>
