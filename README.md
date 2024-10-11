@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm [Your Name], an aspiring developer on a coding journey through the wild world of full stack development. 🚀 Currently sharpening my skills at a bootcamp, I'm learning to create magic on both the front and back end of the web (no wizard hat needed... yet).
+I'm Jorge, an aspiring developer on a coding journey through the wild world of full stack development. 
+<br>
+Currently sharpening my skills at a bootcamp. I'm learning to create magic on both the front and back end of the web (no wizard hat needed... yet).
 
 <br>
 <br>
