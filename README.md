@@ -4,32 +4,27 @@ I'm [Your Name], an aspiring developer on a coding journey through the wild worl
 
 🛠️ Technologies I'm learning:
 
-🖼️ HTML, CSS, JavaScript – where all the frontend magic happens!
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
 
-⚛️ React – because I like my UIs dynamic and snappy.
-
-🛠️ Node.js – for building the logic behind the scenes.
-
-🍃 MongoDB – because who needs SQL when you’ve got NoSQL? 😎
 
 
 🌱 Currently working on:
 
 Crafting a shiny portfolio to showcase my developing superpowers. ✨
 
-Taming my first full stack app (it’s like raising a pet, but with more bugs).
-
 
 📚 On the horizon:
 
-Getting my head in the cloud (cloud computing, not daydreaming, I swear! ☁️).
+Getting my head in the cloud (cloud computing).
 
 Exploring advanced frameworks like Next.js. One framework to rule them all, right?
 
 
 📫 Reach out:
-
-You can find me via carrier pigeon (just kidding) – but really, [Email] or [LinkedIn Profile].
-
 
 Want to collaborate? Have some advice? Or just want to geek out about code? I'm all ears (or eyes, if it's through a screen)!
