@@ -7,7 +7,7 @@ Currently sharpening my skills at a bootcamp. I'm learning to create magic on bo
 <br>
 <br>
 
-🛠️ Technologies I'm learning:
+🛠️ Tools and Technologies I'm learning:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -37,9 +37,9 @@ Exploring advanced frameworks like Next.js. One framework to rule them all, righ
 <br>
 
 🎸🎼 Hobbies:
+
 Whenever I have some time for myself I like to make music on my computer. which is kinda like coding in a way. You can check out some of my music here: 
-<br>
-[<img align="left" alt="Soundcloud" width="26px" src="https://user-images.githubusercontent.com/4356939/58271582-60701e80-7d5a-11e9-97d0-74f50349e924.png" style="padding-right:10px;"/>](https://soundcloud.com/jorge-moreno-542744752)
+[<img  alt="Soundcloud" padding-left="5%" width="20px" src="https://user-images.githubusercontent.com/4356939/58271582-60701e80-7d5a-11e9-97d0-74f50349e924.png" style="padding-right:10px;"/>](https://soundcloud.com/jorge-moreno-542744752)
 
 <br>
 <br>
