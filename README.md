@@ -49,7 +49,6 @@ Whenever I have some time for myself I like to make music on my computer. which 
 <br>
 <br>
 
-📫 Reach out:
+Want to collaborate? Have some advice? Or just want to geek out about code? [<img padding-left="5%" width="20px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="padding-right:10px;"/>](https://www.linkedin.com/in/jjmorenoaudio/)
 
-Want to collaborate? Have some advice? Or just want to geek out about code? I'm all ears (or eyes, if it's through a screen)!
 
