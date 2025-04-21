@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Jorge, an aspiring developer on a coding journey through the wild world of full stack development. 
+I'm Jorge, a developer on a coding journey through the wild world of full stack development. 
 <br>
-Currently sharpening my skills at a bootcamp. I'm learning to create magic on both the front and back end of the web (no wizard hat needed... yet).
+Currently sharpening my skills. I'm learning to create magic on both the front and back end of the web (no wizard hat needed... yet).
 
 <br>
 <br>
 
-🛠️ Tools and Technologies I'm learning:
+🛠️ Tools and Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -31,7 +31,6 @@ Crafting a shiny portfolio to showcase my developing superpowers. ✨
 
 Getting my head in the cloud (cloud computing).
 
-Exploring advanced frameworks like Next.js. One framework to rule them all, right?
 
 <br>
 <br>
