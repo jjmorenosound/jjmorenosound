@@ -5,7 +5,8 @@
 
 <br>
 <br>
-
+<br>
+<br>
 ## Hi there 👋
 
 I'm Jorge, a developer on a coding journey through the wild world of full stack development. 
