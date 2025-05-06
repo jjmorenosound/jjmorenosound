@@ -1,21 +1,10 @@
-
-<img alt="Jorge's Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmorenosound&layout=compact"/>
-
-<img alt="Jorge's GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jjmorenosound&show_icons=true"/>
-
-<br>
-<br>
-<br>
-<br>
+| <img alt="Jorge's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmorenosound&layout=compact" width="100%"/> | <img alt="Jorge's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jjmorenosound&show_icons=true" width="100%"/> |
+|:---:|:---:|
 
 ## Hi there 👋
 
-I'm Jorge, a developer on a coding journey through the wild world of full stack development. 
-<br>
+I'm Jorge, a developer on a coding journey through the wild world of full stack development.  
 Currently sharpening my skills. I'm learning to create magic on both the front and back end of the web (no wizard hat needed... yet).
-
-<br>
-<br>
 
 🛠️ Tools and Technologies:
 
@@ -26,14 +15,11 @@ Currently sharpening my skills. I'm learning to create magic on both the front a
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 
-<br>
-<br>
-<br>
+<br clear="all"/>
 
 🌱 Currently working on:
 
 Crafting a shiny portfolio to showcase my developing superpowers. ✨
-
 <br>
 <br>
 
