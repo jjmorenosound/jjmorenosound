@@ -1,5 +1,7 @@
-<img alt="Jorge's GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jjmorenosound&show_icons=true"/>
+
 <img alt="Jorge's Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmorenosound&layout=compact"/>
+
+<img alt="Jorge's GitHub stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jjmorenosound&show_icons=true"/>
 
 <br>
 <br>
